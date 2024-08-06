@@ -1,2 +1,2 @@
 # Diagrama_NASSI---SCHNEIDERMAN_CHAPIN
-Menu
+Menu de opciones
